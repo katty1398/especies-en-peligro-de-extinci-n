@@ -1,0 +1,62 @@
+h1{
+	font-family: 'Playfair Display', serif;
+	font-size: medium;
+	color: #474747;
+}
+
+hr{
+	width: 70px;
+    height: 4px;
+    background: #474747;
+}
+
+span{
+	font-family: 'Vollkorn', serif;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;	
+}
+
+p{
+	background-size: 100%;
+	width: 200px;
+	height: 200px;
+	float: left;
+	border: 20px solid #fff;
+	margin: 0;
+	color: #fff;
+	position: relative;
+}
+
+
+.p1{
+	background-image: url(img/osopolar.jpg);
+}
+
+
+.p2{
+	background-image: url(img/EltigredeBengala.jpg);
+}
+
+
+.p3{
+	background-image: url(img/Coral.jpg);
+}
+
+
+.p4{
+	background-image: url(img/Canguro.jpg);
+	clear: left;
+}
+
+
+.p5{
+	background-image: url(img/pingüino.jpg);
+
+}
+
+
+.p6{
+	background-image: url(img/tortuga.jpg);
+
+}
